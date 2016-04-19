@@ -1,0 +1,8 @@
+#指令只要打/vt就能看到，不多贅述
+permission:
+    vt:
+        vote: "vote.vt.vote"
+        create: "vote.vt.create"
+        del: "vote.vt.del"
+        end: "vote.vt.end"
+        check: "vote.vt.check"

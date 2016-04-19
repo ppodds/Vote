@@ -1,0 +1,6 @@
+name: Vote
+main: ppodds.other.vote.Vote
+version: 1.0.0
+commands:
+  vt:
+    description: 主指令
